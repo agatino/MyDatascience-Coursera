@@ -12,3 +12,5 @@ __School:__ John Hopkins School of Public Health
 ## MOOCs Completed
 1. [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox) - July 2014 _(only "Hello.md")_  
 2. [R Programming](https://www.coursera.org/course/rprog) - July 2014  
+3. [Getting and Cleaning Data](https://www.coursera.org/course/getdata) - August 2014  
+4. [Exploratory Data Analysis](https://www.coursera.org/course/exdata) - August 2014  
