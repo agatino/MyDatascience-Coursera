@@ -1,4 +1,4 @@
-# R Programming
+# Getting and Cleaning Data
 
 Quizzes I've done for the "Getting and Cleaning Data" MOOC on Coursera.  
 The codes are transcripts of what I typed to get the answers for the quizzes, and some pretty printing.  
