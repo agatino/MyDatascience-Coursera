@@ -1,10 +1,6 @@
-### Exploratory Data Analysis - John Hopkins University
-### Course Project 1: Plot 2
-### Plotting single line graphs
+### Roma March 8 2015
+### Agatino Grillo
 
-### Written by Billy.Ljm
-### 07 August 2014
-### MIT License
 
 require(data.table)
 
