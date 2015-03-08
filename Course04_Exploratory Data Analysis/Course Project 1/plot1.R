@@ -1,10 +1,5 @@
-### Exploratory Data Analysis - John Hopkins University
-### Course Project 1: Plot 1
-### Plotting histograms
-
-### Written by Billy.Ljm
-### 07 August 2014
-### MIT License
+### Roma March 8 2015
+### Agatino Grillo
 
 require(data.table)
 
